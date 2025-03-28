@@ -29,5 +29,10 @@ class Jedi extends Personaje {
     public void realizarAccion() {
         System.out.println(nombre + " enciende su sable láser de color " + colorSable + ".");
     }
+    
+    public void propiedadPrueba() {
+        System.out.println(nombre + "prueba.");
+    }
+
 }
 //Comentario de prueba.
