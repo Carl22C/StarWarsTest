@@ -34,5 +34,8 @@ class Jedi extends Personaje {
         System.out.println(nombre + "prueba.");
     }
 
+    public void propiedadPrueba2() {
+        System.out.println(nombre + "prueba2.");
+    }
 }
 //Comentario de prueba.
